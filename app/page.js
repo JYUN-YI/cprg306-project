@@ -1,6 +1,6 @@
 import React from 'react';
 import MusicList from './music-list';
-import './App.css';
+import './app.css';
 
 export default function Page() {
   return (
