@@ -1,0 +1,466 @@
+[ 
+      {
+        "id": 1,
+        "name": "Purple Haze",
+        "band": "The Jimi Hendrix Experience",
+        "date": 1967, 
+        "photo": "/media/photo_1.jpg",
+        "photoWidth": "200px",
+        "phototHeight": "auto", 
+        "audio":"/media/music_1.mp3"
+      },
+      {
+        "id": 2,
+        "name": "Hey Joe",
+        "band": "The Jimi Hendrix Experience",
+        "date": 1967,
+        "photo": "/media/photo_2.jpg",
+        "photoWidth": "200px",
+        "phototHeight": "auto", 
+        "audio":"/media/music_2.mp3"
+      },
+      {
+        "id": 3,
+        "name": "Voodoo Child",
+        "band": "The Jimi Hendrix Experience",
+        "date": 1968,
+        "photo": "/media/photo_3.jpg",
+        "photoWidth": "200px",
+        "phototHeight": "auto", 
+        "audio":"/media/music_3.mp3"
+      },
+      {
+        "id": 4,
+        "name": "All Along the Watchtower",
+        "band": "The Jimi Hendrix Experience",
+        "date": 1968, 
+        "photo": "/media/photo_4.jpg",
+        "photoWidth": "200px",
+        "phototHeight": "auto", 
+        "audio":"/media/music_4.mp3"
+      },
+      {
+        "id": 5,
+        "name": "The Wind Cries Mary",
+        "band": "The Jimi Hendrix Experience",
+        "date": 1967,
+        "photo": "/media/photo_5.jpg",
+        "photoWidth": "200px",
+        "phototHeight": "auto", 
+        "audio":"/media/music_5.mp3"
+      },
+      {
+        "id": 6,
+        "name": "Wish You Were Here",
+        "band": "Pink Floyd",
+        "date": 1975,
+        "photo": "/media/photo_6.jpg",
+        "photoWidth": "200px",
+        "phototHeight": "auto", 
+        "audio":"/media/music_6.mp3"
+      },
+      {
+        "id": 7,
+        "name": "Comfortably Numb",
+        "band": "Pink Floyd",
+        "date": 1979, 
+        "photo": "/media/photo_7.jpg",
+        "photoWidth": "200px",
+        "phototHeight": "auto", 
+        "audio":"/media/music_7.mp3"
+      },
+      {
+        "id": 8,
+        "name": "Another Brick in the Wall, Part 2",
+        "band": "Pink Floyd",
+        "date": 1979, 
+        "photo": "/media/photo_8.jpg",
+        "photoWidth": "200px",
+        "phototHeight": "auto", 
+        "audio":"/media/music_8.mp3"
+      },
+      {
+        "id": 9,
+        "name": "Money",
+        "band": "Pink Floyd",
+        "date": 1973, 
+        "photo": "/media/photo_9.jpg",
+        "photoWidth": "200px",
+        "phototHeight": "auto", 
+        "audio":"/media/music_9.mp3"
+      },
+      {
+        "id": 10,
+        "name": "Time",
+        "band": "Pink Floyd",
+        "date": 1973,        
+        "photo": "/media/photo_10.jpg",
+        "photoWidth": "200px",
+        "phototHeight": "auto", 
+        "audio":"/media/music_10.mp3"
+      },
+      {
+        "id": 11,
+        "name": "Stairway to Heaven",
+        "band": "Led Zeppelin",
+        "date": 1971,         
+        "photo": "/media/photo_11.jpg",
+        "photoWidth": "200px",
+        "phototHeight": "auto", 
+        "audio":"/media/music_11.mp3"
+      },
+      {
+        "id": 12,
+        "name": "Dazed and Confused",
+        "band": "Led Zeppelin",
+        "date": 1969,
+        "photo": "/media/photo_12.jpg",
+        "photoWidth": "200px",
+        "phototHeight": "auto", 
+        "audio":"/media/music_12.mp3"
+      },
+      {
+        "id": 13,
+        "name": "Black Dog",
+        "band": "Led Zeppelin",
+        "date": 1971,
+        "photo": "/media/photo_13.jpg",
+        "photoWidth": "200px",
+        "phototHeight": "auto", 
+        "audio":"/media/music_13.mp3"
+      },
+      {
+        "id": 14,
+        "name": "Kashmir",
+        "band": "Led Zeppelin",
+        "date": 1975,
+        "photo": "/media/photo_14.jpg",
+        "photoWidth": "200px",
+        "phototHeight": "auto", 
+        "audio":"/media/music_14.mp3"
+      },
+      {
+        "id": 15,
+        "name": "Rock and Roll",
+        "band": "Led Zeppelin",
+        "date": 1971,
+        "photo": "/media/photo_15.jpg",
+        "photoWidth": "200px",
+        "phototHeight": "auto", 
+        "audio":"/media/music_15.mp3"
+      },
+      {
+        "id": 16,
+        "name": "Hey Jude",
+        "band": "The Beatles",
+        "date": 1968, 
+        "photo": "/media/photo_16.jpg",
+        "photoWidth": "200px",
+        "phototHeight": "auto", 
+        "audio":"/media/music_16.mp3"
+      },
+      {
+        "id": 17,
+        "name": "Let It Be",
+        "band": "The Beatles",
+        "date": 1970, 
+        "photo": "/media/photo_17.jpg",
+        "photoWidth": "200px",
+        "phototHeight": "auto", 
+        "audio":"/media/music_17.mp3"
+      },
+      {
+        "id": 18,
+        "name": "A Hard Day's Night",
+        "band": "The Beatles",
+        "date": 1964,
+        "photo": "/media/photo_18.jpeg",
+        "photoWidth": "200px",
+        "phototHeight": "auto", 
+        "audio":"/media/music_18.mp3"
+      },
+      {
+        "id": 19,
+        "name": "Come Together",
+        "band": "The Beatles",
+        "date": 1969, 
+        "photo": "/media/photo_19.jpg",
+        "photoWidth": "200px",
+        "phototHeight": "auto", 
+        "audio":"/media/music_19.mp3"
+      },
+      {
+        "id": 20,
+        "name": "Yesterday",
+        "band": "The Beatles",
+        "date": 1965,
+        "photo": "/media/photo_20.jpg",
+        "photoWidth": "200px",
+        "phototHeight": "auto", 
+        "audio":"/media/music_20.mp3"
+      },
+      {
+        "id": 21,
+        "name": "Hotel California",
+        "band": "Eagles",
+        "date": 1976,
+        "photo": "/media/photo_21.jpg",
+        "photoWidth": "200px",
+        "phototHeight": "auto", 
+        "audio":"/media/music_21.mp3"
+      },
+      {
+        "id": 22,
+        "name": "Take It Easy",
+        "band": "Eagles",
+        "date": 1972,
+        "photo": "/media/photo_22.jpg",
+        "photoWidth": "200px",
+        "phototHeight": "auto", 
+        "audio":"/media/music_22.mp3"
+
+      },
+      {
+        "id": 23,
+        "name": "Desperado",
+        "band": "Eagles",
+        "date": 1973,
+        "photo": "/media/photo_23.jpg",
+        "photoWidth": "200px",
+        "phototHeight": "auto", 
+        "audio":"/media/music_23.mp3"
+      },
+      {
+        "id": 24,
+        "name": "New Kid in Town",
+        "band": "Eagles",
+        "date": 1976,
+        "photo": "/media/photo_24.jpg",
+        "photoWidth": "200px",
+        "phototHeight": "auto", 
+        "audio":"/media/music_24.mp3"
+      },
+      {
+        "id": 25,
+        "name": "Life in the Fast Lane",
+        "band": "Eagles",
+        "date": 1976,
+        "photo": "/media/photo_25.jpg",
+        "photoWidth": "200px",
+        "phototHeight": "auto", 
+        "audio":"/media/music_25.mp3"
+      },
+      {
+        "id": 26,
+        "name": "Space Oddity",
+        "band": "David Bowie",
+        "date": 1969,
+        "photo": "/media/photo_26.jpg",
+        "photoWidth": "200px",
+        "phototHeight": "auto", 
+        "audio":"/media/music_26.mp3"
+      },
+      {
+        "id": 27,
+        "name": "Heroes",
+        "band": "David Bowie",
+        "date": 1977,
+        "photo": "/media/photo_27.jpg",
+        "photoWidth": "200px",
+        "phototHeight": "auto", 
+        "audio":"/media/music_27.mp3"
+      },
+      {
+        "id": 28,
+        "name": "Changes",
+        "band": "David Bowie",
+        "date": 1971,
+        "photo": "/media/photo_28.jpg",
+        "photoWidth": "200px",
+        "phototHeight": "auto", 
+        "audio":"/media/music_28.mp3"
+      },
+      {
+        "id": 29,
+        "name": "Starman",
+        "band": "David Bowie",
+        "date": 1972,
+        "photo": "/media/photo_29.jpg",
+        "photoWidth": "200px",
+        "phototHeight": "auto", 
+        "audio":"/media/music_29.mp3"
+      },
+      {
+        "id": 30,
+        "name": "Bohemian Rhapsody",
+        "band": "Queen",
+        "date": 1975,
+        "photo": "/media/photo_30.jpg",
+        "photoWidth": "200px",
+        "phototHeight": "auto", 
+        "audio":"/media/music_30.mp3"
+      },
+      {
+        "id": 31,
+        "name": "We Will Rock You",
+        "band": "Queen",
+        "date": 1977,
+        "photo": "/media/photo_31.jpg",
+        "photoWidth": "200px",
+        "phototHeight": "auto", 
+        "audio":"/media/music_31.mp3"
+      },
+      {
+        "id": 32,
+        "name": "We Are the Champions",
+        "band": "Queen",
+        "date": 1977,
+        "photo": "/media/photo_32.jpg",
+        "photoWidth": "200px",
+        "phototHeight": "auto", 
+        "audio":"/media/music_32.mp3"
+      },
+      {
+        "id": 33,
+        "name": "Somebody to Love",
+        "band": "Queen",
+        "date": 1976,
+        "photo": "/media/photo_33.jpg",
+        "photoWidth": "200px",
+        "phototHeight": "auto", 
+        "audio":"/media/music_33.mp3"
+      },
+      {
+        "id": 34,
+        "name": "Smoke on the Water",
+        "band": "Deep Purple",
+        "date": 1972,
+        "photo": "/media/photo_34.jpg",
+        "photoWidth": "200px",
+        "phototHeight": "auto", 
+        "audio":"/media/music_34.mp3"
+      },
+      {
+        "id": 35,
+        "name": "Highway Star",
+        "band": "Deep Purple",
+        "date": 1972,
+        "photo": "/media/photo_35.jpg",
+        "photoWidth": "200px",
+        "phototHeight": "auto", 
+        "audio":"/media/music_35.mp3"
+      },
+      {
+        "id": 36,
+        "name": "Burn",
+        "band": "Deep Purple",
+        "date": 1974,
+        "photo": "/media/photo_36.jpg",
+        "photoWidth": "200px",
+        "phototHeight": "auto", 
+        "audio":"/media/music_36.mp3"
+      },
+      {
+        "id": 37,
+        "name": "Hush",
+        "band": "Deep Purple",
+        "date": 1968,
+        "photo": "/media/photo_37.jpg",
+        "photoWidth": "200px",
+        "phototHeight": "auto", 
+        "audio":"/media/music_37.mp3"
+      },
+      {
+        "id": 38,
+        "name": "Space Truckin'",
+        "band": "Deep Purple",
+        "date": 1972,
+        "photo": "/media/photo_38.jpg",
+        "photoWidth": "200px",
+        "phototHeight": "auto", 
+        "audio":"/media/music_38.mp3"
+      },
+      {
+        "id": 39,
+        "name": "Paranoid",
+        "band": "Black Sabbath",
+        "date": 1970,
+        "photo": "/media/photo_39.jpg",
+        "photoWidth": "200px",
+        "phototHeight": "auto", 
+        "audio":"/media/music_39.mp3"
+      },
+      {
+        "id": 40,
+        "name": "Iron Man",
+        "band": "Black Sabbath",
+        "date": 1970,
+        "photo": "/media/photo_40.jpg",
+        "photoWidth": "200px",
+        "phototHeight": "auto", 
+        "audio":"/media/music_40.mp3"
+      },
+      {
+        "id": 41,
+        "name": "War Pigs",
+        "band": "Black Sabbath",
+        "date": 1970,
+        "photo": "/media/photo_41.jpg",
+        "photoWidth": "200px",
+        "phototHeight": "auto", 
+        "audio":"/media/music_41.mp3"
+      },
+      {
+        "id": 42,
+        "name": "Changes",
+        "band": "Black Sabbath",
+        "date": 1972,
+        "photo": "/media/photo_42.jpg",
+        "photoWidth": "200px",
+        "phototHeight": "auto", 
+        "audio":"/media/music_42.mp3"
+      },
+      {
+        "id": 43,
+        "name": "Sabbath Bloody Sabbath",
+        "band": "Black Sabbath",
+        "date": 1973,
+        "photo": "/media/photo_43.jpg",
+        "photoWidth": "200px",
+        "phototHeight": "auto", 
+        "audio":"/media/music_43.mp3"
+      },
+      {
+        "id": 44,
+        "name": "Foxey Lady",
+        "band": "The Jimi Hendrix Experience",
+        "date": 1967,
+        "photo": "/media/photo_44.jpg",
+        "photoWidth": "200px",
+        "phototHeight": "auto", 
+        "audio":"/media/music_44.mp3"
+      },
+      {
+        "id": 45,
+        "name": "Breath",
+        "band": "Pink Floyd",
+        "date": 1973,        
+        "photo": "/media/photo_45.jpeg",
+        "photoWidth": "200px",
+        "phototHeight": "auto", 
+        "audio":"/media/music_45.mp3"
+      },
+      {
+        "id": 46,
+        "name": "When the Levee Breaks",
+        "band": "Led Zeppelin",
+        "date": 1971,        
+        "photo": "/media/photo_46.jpeg",
+        "photoWidth": "200px",
+        "phototHeight": "auto", 
+        "audio":"/media/music_46.mp3"
+      }
+
+]
+
+  
