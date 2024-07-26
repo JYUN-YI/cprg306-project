@@ -1,2 +1,14 @@
 /* App.css or another CSS file */
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Pacifico&display=swap');
+
+.image-row {
+    display: flex;
+    justify-content: center; /* Center the images horizontally */
+    flex-wrap: wrap; /* Allows wrapping if the images exceed the width */
+  }
+  
+  .image-row img {
+    margin-left: 5px; /* Space between each image */
+    margin-right: 5px; /* Space between each image (optional) */
+  }
+  
