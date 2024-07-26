@@ -8,7 +8,7 @@ export default function Page() {
 
   return (
     <main>
-      <h1 className="text-4xl font-bold m-6 text-center text-pink-400 font-retro flex items-center justify-center">
+      <label className="text-4xl font-bold m-6 text-center text-pink-400 font-retro flex items-center justify-center">
         <img
           src="/media/photo_peace.gif"
           alt="Rock Music"
@@ -27,7 +27,7 @@ export default function Page() {
             marginLeft: '10px'  // Space between the image and the text
           }}
         />
-      </h1>
+      </label>
 
       
 
