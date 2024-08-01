@@ -459,6 +459,26 @@
         "photoWidth": "200px",
         "phototHeight": "auto", 
         "audio":"/media/music_46.mp3"
+      },
+      {
+        "id": 47,
+        "name": "My Sweet Lord",
+        "band": "George Harrison",
+        "date": 1970,        
+        "photo": "/media/photo_47.jpeg",
+        "photoWidth": "200px",
+        "phototHeight": "auto", 
+        "audio":"/media/music_47.mp3"
+      }, 
+      {
+        "id": 48,
+        "name": "Beware of Darkness",
+        "band": "George Harrison",
+        "date": 1970,        
+        "photo": "/media/photo_48.jpeg",
+        "photoWidth": "200px",
+        "phototHeight": "auto", 
+        "audio":"/media/music_48.mp3"
       }
 
 ]
